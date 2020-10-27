@@ -48,11 +48,10 @@ Thanks for all :
 * [AvinashReddy3108](https://github.com/AvinashReddy3108) - PaperplaneExtended
 * [Mkaraniya](https://github.com/mkaraniya) - OpenUserBot
 * [DevPatel](https://github.com/Devp73) - OpenUserBot
-* [kandnub](https://github.com/kandnub) - TG-UserBot
 * [༺αиυвιѕ༻](https://github.com/Dark-Princ3) - X-tra-Telegram
 * [MoveAngel](https://github.com/MoveAngel) - One4uBot
 * [keselekpermen69](https://github.com/keselekpermen69) - UserButt
-* [GengKapak](https://github.com/GengKapak) - DCLXVI
+
 and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/sahyam2019/oub-remix/graphs/contributors).
 
 ## License
